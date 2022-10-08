@@ -672,6 +672,14 @@
     "question" : "Subset sum equal to k"
     "answer_link" : " https://www.geeksforgeeks.org/subset-sum-problem-dp-25/ "
 }
+
+{
+        "id":"178",
+        "topic":"DSA - infix to postfix",
+        "question":"Infix to postfix implementation stack using linked list",
+        "answer_link":"https://stackoverflow.com/questions/15173731/infix-to-postfix-implementation-using-linked-lists"
+
+    },
 ]
 
 
